@@ -5,7 +5,7 @@
 Takumi Saito
 
 ### Added
-Image of completed dev board
+Image of completed dev board 
 
 ### Changed
 ...
